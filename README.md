@@ -1,4 +1,4 @@
-# Hi, I'm Mahfoozur Rahman (Tusher)
+# Hi, I'm Md Mahfoozur Rahman
 
  Full-Stack Web Developer | Laravel Specialist | Exploring AI-Powered Applications
 
