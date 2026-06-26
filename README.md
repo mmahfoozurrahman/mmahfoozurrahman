@@ -1,6 +1,6 @@
 # Hi, I'm Md Mahfoozur Rahman
 
- Full-Stack Web Developer | Laravel Specialist | Exploring AI-Powered Applications
+ Full-Stack Laravel Developer | Exploring AI-Powered Applications
 
 ---
 
